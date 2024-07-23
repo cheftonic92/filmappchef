@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002917394223",
+    "project_id": "filmappchef3",
+    "storage_bucket": "filmappchef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002917394223:android:b34bb7b48a9d5da6b913da",
+        "android_client_info": {
+          "package_name": "com.cheftonic.filmappchef3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1xuhFNQOsjZrF7VguClQYpY-2oN_hL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
