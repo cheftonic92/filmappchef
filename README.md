@@ -1,6 +1,6 @@
 **Español**
 
-FilmAppChef3 es una aplicación móvil desarrollada en Kotlin utilizando Jetpack Compose. La aplicación permite a los usuarios puntuar y organizar películas, consumiendo datos de la TMDB API. Ofrece una interfaz moderna y fácil de usar, y es una excelente muestra de las capacidades de desarrollo móvil con Kotlin y Jetpack Compose.
+FilmAppChef es una aplicación móvil desarrollada en Kotlin utilizando Jetpack Compose. La aplicación permite a los usuarios puntuar y organizar películas, consumiendo datos de la TMDB API. Ofrece una interfaz moderna y fácil de usar, y es una excelente muestra de las capacidades de desarrollo móvil con Kotlin y Jetpack Compose.
 
 ## Características
 
@@ -13,7 +13,7 @@ FilmAppChef3 es una aplicación móvil desarrollada en Kotlin utilizando Jetpack
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/cheftonic92/FilmAppChef3.git
+    git clone https://github.com/cheftonic92/filmappchef.git
     ```
 
 2. Abre el proyecto en Android Studio.
@@ -41,7 +41,7 @@ FilmAppChef3 es una aplicación móvil desarrollada en Kotlin utilizando Jetpack
 
 **English**
 
-FilmAppChef3 is a mobile application developed in Kotlin using Jetpack Compose. The app allows users to rate and organize movies by consuming data from the TMDB API. It offers a modern and user-friendly interface, showcasing the capabilities of mobile development with Kotlin and Jetpack Compose.
+FilmAppChef is a mobile application developed in Kotlin using Jetpack Compose. The app allows users to rate and organize movies by consuming data from the TMDB API. It offers a modern and user-friendly interface, showcasing the capabilities of mobile development with Kotlin and Jetpack Compose.
 
 ## Features
 
@@ -54,7 +54,7 @@ FilmAppChef3 is a mobile application developed in Kotlin using Jetpack Compose. 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/cheftonic92/FilmAppChef3.git
+    git clone https://github.com/cheftonic92/filmappchef.git
     ```
 
 2. Open the project in Android Studio.
