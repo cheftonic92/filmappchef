@@ -39,7 +39,7 @@ FilmAppChef3 es una aplicación móvil desarrollada en Kotlin utilizando Jetpack
 
 ---
 
-**Inglés**
+**English**
 
 FilmAppChef3 is a mobile application developed in Kotlin using Jetpack Compose. The app allows users to rate and organize movies by consuming data from the TMDB API. It offers a modern and user-friendly interface, showcasing the capabilities of mobile development with Kotlin and Jetpack Compose.
 
